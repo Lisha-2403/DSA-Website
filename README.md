@@ -13,9 +13,8 @@ https://lisha-2403.github.io/DSA-Website/
 ##  Features
 - Dropdown and buttons to choose algorithms  
 - Code snippets displayed in **C language**  
-- Covers Searching, Sorting, and Data Structures  
-- Simple design for beginners  
-
+- Covers Searching, Sorting, and Data Structures
+  
 ---
 
 ## How to Use
